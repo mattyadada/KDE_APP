@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+067da5005a5357a0e19d3c65c438089a CMakeFiles/fetch-translations
+cfef1573099b2761093f494d54949404 CMakeFiles/uninstall
+956f4ee1ba62b71783b289994c018c9e releaseme
+9abc3c923bffed0ac988c20730dcd7e7 src/CMakeFiles/helloworld_autogen
